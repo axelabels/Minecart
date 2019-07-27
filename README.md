@@ -1,13 +1,20 @@
 This repository contains the Minecart environment as presented in our paper "Dynamic Weights in Multi-Objective Deep Reinforcement Learning", published at ICML 2019. If you use this code in your own research, please cite this paper:
 
 ```
-@inproceedings{abels2019dynamic,
-  title={Dynamic Weights in Multi-Objective Deep Reinforcement Learning},
-  author={Abels, Axel and Roijers, Diederik M. and Lenaerts, Tom and Now{\'e}, Ann and Steckelmacher, Denis},
-  booktitle={Proceedings of the 36th International Conference on Machine Learning},
-  pages={TBA},
-  year={2019}
+@InProceedings{pmlr-v97-abels19a,
+  title = 	 {Dynamic Weights in Multi-Objective Deep Reinforcement Learning},
+  author = 	 {Abels, Axel and Roijers, Diederik and Lenaerts, Tom and Now{\'e}, Ann and Steckelmacher, Denis},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  pages = 	 {11--20},
+  year = 	 {2019},
+  editor = 	 {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+  volume = 	 {97},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Long Beach, California, USA},
+  month = 	 {09--15 Jun},
+  publisher = 	 {PMLR}
 }
+
 ```
 
 https://arxiv.org/abs/1809.07803v2
